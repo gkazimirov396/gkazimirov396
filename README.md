@@ -18,7 +18,7 @@ I'm a web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
     <a href="https://t.me/GrKazim" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="https://discord.gg/gkazimirov" target="_blank">
+    <a href="https://discord.gg/u3gJmFkJ" target="_blank">
       <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="40" height="40" alt="discord" />
     </a>
   </div>
