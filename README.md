@@ -5,7 +5,7 @@
 
 ### :man_technologist: My Bio:
 
-I'm a web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Programming has always been my passion. I first started learning it during my years in IT Step Academy, where I learned the basics of: Python, Javascript and C++. After finishing my studies, I chose to specialize in web development, and after passing a few courses, I managed to land my first job. 
+I'm a web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Programming has always been my passion. I first started learning it during my years in IT Step Academy, where I learned the basics of: Python, Javascript and C++. After finishing my studies, I chose to specialize in web development, and after passing a few courses, I managed to land my first job. I'm currently majoring in Software Enginnering And Business Analysis at [KSE](https://university.kse.ua/en).
 
 
 - :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-GrKazim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/GrKazim) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dron2491mole@gmail.com)
