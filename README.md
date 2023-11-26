@@ -56,32 +56,17 @@ I'm a web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 ---
 
-<!-- ### 💻 Courses I Took:
-
-| Mt Courses                                                           | Date              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
-
---- -->
-
 
 ### ⚙️ GitHub statistics:
 
 <table>
   <tr>
     <td>
-      <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkazimirov396&hide=ejs,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" /> -->
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=gkazimirov396&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gkazimirov396&layout=compact&theme=vision-friendly-dark" />
+      <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkazimirov396&hide=ejs,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" /> -->
     </td>
   </tr>
 </table>
