@@ -19,7 +19,7 @@ I'm a web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
     <a href="https://t.me/GrKazim" target="_blank">
-      <img src="https://www.flaticon.com/free-icon/discord_5968756?term=discord&page=1&position=1&origin=search&related_id=5968756" width="40" height="40" alt="telegram group" />
+      <img src="https://img.icons8.com/color/480w/discord--v2.png" width="40" height="40" alt="telegram group" />
     </a>
   </div>
 
