@@ -10,6 +10,7 @@ I'm a web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 - :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-GrKazim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/GrKazim) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dron2491mole@gmail.com)
 
+---
 
 ### 🤝 Social Media:
 
@@ -70,4 +71,4 @@ I'm a web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gkazimirov396)
