@@ -7,9 +7,7 @@
 
 I'm a web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+
 - :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-GrKazim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/GrKazim) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dron2491mole@gmail.com)
 
 
