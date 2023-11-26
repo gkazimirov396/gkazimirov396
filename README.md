@@ -1,11 +1,11 @@
 
-# Hey there, my name is Gregory!
+# Hey there 👋, my name is Gregory!
 
 ---
 
 ### :man_technologist: My Bio:
 
-I'm a web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+I'm a web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Programming has always been my passion. I first started learning it during my years in IT Step Academy, where I learned the basics of: Python, Javascript and C++. After finishing my studies, I chose to specialize in web development, and after passing a few courses, I managed to land my first job. 
 
 
 - :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-GrKazim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/GrKazim) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dron2491mole@gmail.com)
@@ -18,8 +18,8 @@ I'm a web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
     <a href="https://t.me/GrKazim" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="https://t.me/GrKazim" target="_blank">
-      <img src="https://img.icons8.com/color/480w/discord--v2.png" width="40" height="40" alt="telegram group" />
+    <a href="https://discord.gg/gkazimirov" target="_blank">
+      <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="40" height="40" alt="discord" />
     </a>
   </div>
 
@@ -32,6 +32,7 @@ I'm a web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; 
@@ -42,12 +43,20 @@ I'm a web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### 🛠 Tools:
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+</div>
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+<!-- ### 💻 Courses I Took:
 
-| Курсы                                                           | Дата              |
+| Mt Courses                                                           | Date              |
 | ----------------------------------------------------------------| :---------------: |
 | netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
 | stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
