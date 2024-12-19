@@ -71,8 +71,7 @@ I'm a web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gkazimirov396&hide=ejs,html&layout=compact&theme=vision-friendly-dark" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkazimirov396&hide_border=true&layout=compact&card_width=495"/>   
-      <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkazimirov396&hide=ejs,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" /> -->
+      <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkazimirov396&hide_border=true&layout=compact&card_width=495"/> -->  
     </td>
   </tr>
 </table>
